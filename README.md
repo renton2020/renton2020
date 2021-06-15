@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @renton2020
 - 👀 I’m interested in Web Design , Coding ,Illustration
-- 🌱 I’m currently learning SCSS
+- 🌱 I’m currently learning SCSS , Git , WordPress
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
